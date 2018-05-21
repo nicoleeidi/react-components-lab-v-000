@@ -36,7 +36,7 @@ export class InFrontOfYou extends React.Component {
 </div>
     )
     }
-
+}
 
 
 export class ButcherShop extends React.Component {
